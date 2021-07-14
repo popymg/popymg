@@ -1,7 +1,7 @@
-# Hey there,
+# Hey there 🤙, This is Mahavir Gaikwad
 ----------
 - 👋 Hi, I’m @popymg (**Mahavir Gaikwad**)
-- im Devloper from India
+- 🇮🇳 Im Developer from India 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
